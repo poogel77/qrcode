@@ -14,7 +14,7 @@
     </author>
 
     <plugin name="com.phonegap.plugins.childbrowser" spec="5.0.0" source="pgb" />
-    <gap:plugin name="BarcodeScanner"/>
+    <plugin name="net.roughshod.plugins.barcodescanner" spec="3.0.0" source="pgb" />
 
     <feature name="http://api.phonegap.com/1.0/device" />
 
