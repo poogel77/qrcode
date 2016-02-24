@@ -13,7 +13,7 @@
         PhoneGap Team
     </author>
 
-    <plugin name="com.phonegap.plugins.childbrowser" spec="5.0.0" source="pgb" />
+    <plugin name="com.orcasinc.childbrowser" spec="5.0.1" source="pgb" />
     <plugin name="net.roughshod.plugins.barcodescanner" spec="3.0.0" source="pgb" />
 
     <feature name="http://api.phonegap.com/1.0/device" />
